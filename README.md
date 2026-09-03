@@ -12,7 +12,7 @@
 </div>
 
 ## 👋 Who I Am
-
+<!--
 ```typescript
 const aarya = {
   title: "CS Student (3rd Year)",
@@ -51,7 +51,7 @@ const aarya = {
   openTo: ["Collaborating on systems/networking projects", "Learning opportunities"],
 };
 ```
-
+-->
 ## 🚀 Featured Projects
 
 > These projects aren't pushed to a public repo yet, so no live/code links or repo cards are included below — just the details.
